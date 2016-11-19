@@ -7,3 +7,8 @@ http://isotope.metafizzy.co/
 
 <h2><a href="http://fitvidsjs.com/">FitVids</a></h2>
 <p>A lightweight, easy-to-use jQuery plugin for fluid width video embeds.</p>
+
+
+<h2><a href="http://dimsemenov.com/plugins/magnific-popup/">Magnific Popup</a></h2>
+<p>Magnific Popup is a responsive lightbox & dialog script with focus on performance and providing best experience for user with any device
+(for jQuery or Zepto.js).</p>
