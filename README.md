@@ -21,3 +21,7 @@ http://wicky.nillia.ms/headroom.js/
 <h2><a href="http://parsleyjs.org/">Parsley, the ultimate JavaScript form validation library</a></h2>
 <p>Validating forms frontend have never been so powerful and easy.
 http://parsleyjs.org/</p>
+
+
+<h2><a href="https://github.com/Pixabay/jQuery-flexImages">jQuery-flexImages</a></h2>
+<p>A lightweight jQuery plugin for creating fluid galleries as seen on Flickr and Google Images.</p>
