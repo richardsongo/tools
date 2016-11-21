@@ -12,3 +12,10 @@ http://isotope.metafizzy.co/
 <h2><a href="http://dimsemenov.com/plugins/magnific-popup/">Magnific Popup</a></h2>
 <p>Magnific Popup is a responsive lightbox & dialog script with focus on performance and providing best experience for user with any device
 (for jQuery or Zepto.js).</p>
+
+
+http://momentjs.com/
+
+<h2><a href="http://parsleyjs.org/">Parsley, the ultimate JavaScript form validation library</a></h2>
+<p>Validating forms frontend have never been so powerful and easy.
+http://parsleyjs.org/</p>
