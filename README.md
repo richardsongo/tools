@@ -14,7 +14,8 @@ http://isotope.metafizzy.co/
 (for jQuery or Zepto.js).</p>
 
 
-http://momentjs.com/
+<h2>http://momentjs.com/</h2>
+<p>Parse, validate, manipulate, and display dates in JavaScript.</p>
 
 <h2><a href="http://parsleyjs.org/">Parsley, the ultimate JavaScript form validation library</a></h2>
 <p>Validating forms frontend have never been so powerful and easy.
