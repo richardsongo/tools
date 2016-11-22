@@ -36,3 +36,4 @@ https://github.com/defunkt/jquery-pjax
 http://dimsemenov.com/plugins/royal-slider/
 
 http://tympanus.net/Development/GammaGallery/
+A responsive image gallery experiment
