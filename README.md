@@ -28,3 +28,11 @@ http://parsleyjs.org/</p>
 
 
 http://miromannino.github.io/Justified-Gallery/
+
+
+https://github.com/defunkt/jquery-pjax
+
+
+http://dimsemenov.com/plugins/royal-slider/
+
+http://tympanus.net/Development/GammaGallery/
