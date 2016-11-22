@@ -25,3 +25,6 @@ http://parsleyjs.org/</p>
 
 <h2><a href="https://github.com/Pixabay/jQuery-flexImages">jQuery-flexImages</a></h2>
 <p>A lightweight jQuery plugin for creating fluid galleries as seen on Flickr and Google Images.</p>
+
+
+http://miromannino.github.io/Justified-Gallery/
