@@ -37,3 +37,10 @@ http://dimsemenov.com/plugins/royal-slider/
 
 http://tympanus.net/Development/GammaGallery/
 A responsive image gallery experiment
+
+
+
+<h2>Fonts:<h2>
+
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+
