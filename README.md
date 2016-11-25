@@ -38,7 +38,7 @@ http://dimsemenov.com/plugins/royal-slider/
 http://tympanus.net/Development/GammaGallery/
 A responsive image gallery experiment
 
-
+Instafeed.js is a dead-simple way to add Instagram photos to your website. No jQuery required, just plain 'ol javascript. (see ↑ there?)
 
 <h2>Fonts:<h2>
 
