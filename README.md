@@ -7,7 +7,7 @@ SVG ICONS
 
 IMAGES
 
-- <a href="https://www.flaticon.com/">Pix</a> Free Images
+- <a href="https://www.pixabay.com/">PIXABAY</a> Free Images
 
 DUMMY TEXTS
 
