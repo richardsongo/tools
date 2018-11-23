@@ -9,7 +9,7 @@ IMAGES
 
 - <a href="https://www.pixabay.com/">PIXABAY</a> Stunning Free Images
 
-- <a href="https://calculateaspectratio.com/">Calculate Aspect Ratio</a> Calculate Aspect Ratio
+- <a href="https://calculateaspectratio.com/">Calculate Aspect Ratio</a> Calculate Image Aspect Ratio
 
 
 DUMMY TEXTS
