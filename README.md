@@ -2,10 +2,16 @@
 
 SVG ICONS
 
-- flaticons <a href="https://www.flaticon.com/">link</a>
-- feathericons <a href="https://feathericons.com/">(repo)</a>, <a href="https://github.com/feathericons/feather#api-reference">(howto)</a>
+- Flaticons <a href="https://www.flaticon.com/">Link to website</a>
+- Feathericons <a href="https://feathericons.com/">(Repository)</a>, <a href="https://github.com/feathericons/feather#api-reference">(How To Use)</a>
 
+IMAGES
 
+- <a href="https://www.flaticon.com/">Pix</a> Free Images
+
+DUMMY TEXTS
+
+- 
 
 <h2><a href="http://wicky.nillia.ms/headroom.js/">Headroom</a></h2>
 <p>Headroom.js is a lightweight, high-performance JS widget (with no dependencies!) that allows you to react to the user's scroll. The header on this site is a living example, it slides out of view when scrolling down and slides back in when scrolling up.</p>
