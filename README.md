@@ -7,7 +7,7 @@ SVG ICONS
 
 IMAGES
 
-- <a href="https://www.pixabay.com/">PIXABAY</a> Free Images
+- <a href="https://www.pixabay.com/">PIXABAY</a> Stunning Free Images
 
 DUMMY TEXTS
 
