@@ -2,8 +2,8 @@
 
 SVG ICONS
 
--flaticons<a href="https://www.flaticon.com/">link</a>
--feathericons <a href="https://feathericons.com/">(repo)</a>, <a href="https://github.com/feathericons/feather#api-reference">(howto)</a>
+- flaticons <a href="https://www.flaticon.com/">link</a>
+- feathericons <a href="https://feathericons.com/">(repo)</a>, <a href="https://github.com/feathericons/feather#api-reference">(howto)</a>
 
 
 
